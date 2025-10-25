@@ -4,8 +4,6 @@ description: Outline of topics covered in the lecture.
 file: /courses/16-322-stochastic-estimation-and-control-fall-2004/8be5c95434653670356121d7d4e3f102_lecture25.pdf
 file_size: 232733
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

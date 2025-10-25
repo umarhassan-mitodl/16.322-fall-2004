@@ -27,7 +27,6 @@
     "website": "16-322-stochastic-estimation-and-control-fall-2004"
   },
   "course_title": "Stochastic Estimation and Control",
-  "hide_download": true,
   "course_description": "The major themes of this course are estimation and control of dynamic systems. Preliminary topics begin with reviews of probability and random variables. Next, classical and state-space descriptions of random processes and their propagation through linear systems are introduced, followed by frequency domain design of filters and compensators. From there, the Kalman filter is employed to estimate the states of dynamic systems. Concluding topics include conditions for stability of the filter equations.\n",
   "department_numbers": [
     "16"
@@ -38,7 +37,6 @@
     "content": "b07f5b9b-ee21-0564-c8a7-b2f5123a32e0",
     "website": "16-322-stochastic-estimation-and-control-fall-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"
